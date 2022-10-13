@@ -1,0 +1,234 @@
+/* Navbar */
+.navbar-brand {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #0208fc;
+}
+.navbar-nav a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.navbar {
+  z-index: 3;
+}
+/* Home */
+.jumbotron {
+  background-image: url(assets/industries\ 1.png);
+  background-size: cover;
+  height: 600px;
+}
+.judul h1 {
+  margin-top: -300px;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 90px;
+  color: #0208fc;
+  position: inherit;
+}
+/* About */
+#about {
+  margin-top: 100px;
+}
+.about {
+  position: relative;
+  height: 1000px;
+  background: #e5e9ec;
+  border-top-left-radius: 50px;
+  margin-top: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.card-judul {
+  width: 624px;
+  height: 103px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  margin: -50px auto;
+}
+.card h2 {
+  margin-top: 7px;
+}
+.biru {
+  color: #0208fc;
+}
+.about-judul {
+  margin-top: 150px;
+}
+.about-content {
+  margin-top: 100px;
+}
+.logo-visi {
+  width: 60px;
+  height: 60.66px;
+  margin-top: -60px;
+  margin-left: 40%;
+}
+.card {
+  width: 389px;
+  height: 255px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  margin: -50px auto;
+}
+.misi-text ul,
+li {
+  font-size: 15px;
+  line-height: 15px;
+}
+.content {
+  margin-top: 200px;
+}
+/* Product */
+.product {
+  background-color: #272727;
+  color: #ffffff;
+  margin-top: -50px;
+}
+.judul-product {
+  margin-top: 100px;
+}
+.electrical {
+  margin-top: 100px;
+}
+.content-electrical {
+  color: #272727;
+}
+.card-img {
+  width: 156.99px;
+  height: 51.46px;
+}
+.card-electrical {
+  background-color: #e5e9ec;
+  margin: auto;
+}
+.foundry-img {
+  width: 90px;
+  height: 61px;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+}
+.honeywell {
+  width: 306px;
+  height: 68px;
+}
+/* Contact */
+#contact {
+  background-image: url(./assets/bg.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 737px;
+}
+#contact .overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+#contact .container {
+  padding: 148px 0 148px;
+}
+#contact h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffff;
+  margin-top: -100px;
+}
+#contact img {
+  width: 40px;
+  height: 40px;
+}
+#contact h6 {
+  margin-top: 70px;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ffff;
+}
+.contact a {
+  font-weight: 400px;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 18px;
+  display: inline-block;
+  width: 482px;
+}
+.pt {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.card-contact {
+  width: 100%;
+  height: 400px;
+  background-color: #ffff;
+  border-radius: 5px;
+  padding: 52px 48px;
+}
+.card-contact h2 {
+  margin-top: -20px;
+  margin-bottom: 40px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #706c6c;
+  text-align: center;
+}
+.form-control {
+  background-color: #d9d9d9;
+  height: 75px;
+}
+.form-floating label {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  color: #706c6c;
+}
+.button-contact {
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  height: 75px;
+  width: 100%;
+  border: none;
+  color: #706c6c;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+/* Footer */
+footer {
+  width: 100%;
+  height: 270px;
+  background: #d9d9d9;
+}
+.copyright {
+  bottom: 5%;
+  color: #706c6c;
+}
+footer a {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  color: #0208fc;
+  text-decoration: none;
+}
+.grey {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #706c6c;
+}
