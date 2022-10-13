@@ -1,0 +1,269 @@
+/* Home Start */
+@media screen and (max-width: 768px) {
+  .judul-hero h1 {
+    margin-top: -150px;
+    font-size: 47px;
+  }
+  .judul-about {
+    margin-top: 30px;
+    font-weight: 600;
+    font-size: 45px;
+  }
+  .text-left {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .abouts {
+    margin-top: -40px;
+  }
+  .btn {
+    margin-bottom: 20px;
+  }
+  .judul-product {
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 40px;
+  }
+  .image img {
+    width: 200px;
+  }
+  .judul-contact,
+  .judul-contact span {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .text-copy {
+    font-size: 12px;
+  }
+  .text-contact {
+    font-size: 10px;
+    color: grey;
+  }
+  .abouts {
+    height: max-content;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .judul-hero h1 {
+    margin-top: -120px;
+    font-size: 35px;
+  }
+  .judul-about {
+    margin-top: 20px;
+    font-weight: 600;
+    font-size: 30px;
+  }
+  .text-left {
+    margin-top: -10px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .btn-1 {
+    background: #5c80ff;
+    box-shadow: 0 2px 6px #272727;
+    font-size: 14px;
+  }
+  .abouts {
+    margin-top: -40px;
+  }
+  .judul-product {
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 25px;
+    line-height: normal;
+  }
+  .image img {
+    width: 200px;
+  }
+  .judul-contact,
+  .judul-contact span {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .text-copy {
+    font-size: 10px;
+  }
+  .text-contact {
+    font-size: 10px;
+    color: grey;
+  }
+}
+/* Home End */
+
+/* Abouts Start */
+@media screen and (max-width: 768px) {
+  .judul-about h1 {
+    margin-top: -250px;
+    font-size: 64px;
+  }
+  .about-judul {
+    font-size: 40px;
+  }
+  .text-about {
+    font-size: 14px;
+    line-height: 25px;
+  }
+  .our-team {
+    font-size: 25px;
+  }
+  .judul-content,
+  .text-content {
+    font-size: 19px;
+  }
+  .judul-visi-misi {
+    font-size: 25px;
+  }
+  .text-visi {
+    margin-left: 70px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+  }
+  .content-visi-misi img {
+    width: 45px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .judul-about h1 {
+    margin-top: -200px;
+    font-size: 50px;
+  }
+  .about-judul {
+    font-size: 25px;
+  }
+  .text-about {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .our-team {
+    font-size: 20px;
+  }
+  .judul-content,
+  .text-content {
+    font-size: 16px;
+  }
+  .judul-contact,
+  .judul-contact span {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .judul-visi-misi {
+    font-size: 19px;
+  }
+  .text-visi {
+    margin-left: 70px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .content-visi-misi img {
+    width: 35px;
+  }
+  .content2 {
+    height: max-content;
+  }
+  .text-copy {
+    font-size: 10px;
+  }
+  .text-contact {
+    font-size: 10px;
+    color: grey;
+  }
+}
+/* Abouts End */
+
+/* Product Start */
+@media screen and (max-width: 786px) {
+  .content-bawah {
+    margin-top: 40px;
+  }
+  .judul-about h1 {
+    font-size: 55px;
+  }
+  .electrical-judul {
+    font-size: 40px;
+  }
+  .text-about {
+    font-size: 13px;
+  }
+  .text-copy {
+    font-size: 12px;
+  }
+  .text-contact {
+    font-size: 10px;
+    color: grey;
+  }
+  .content1 {
+    margin: auto;
+    margin-top: -50px;
+  }
+  .card-content {
+    margin-top: -150px;
+    margin-left: auto;
+    width: 700px;
+  }
+  .content-abouts {
+    margin-top: 0px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .judul-about h1 {
+    font-size: 40px;
+  }
+  .electrical-judul {
+    font-size: 30px;
+  }
+  .text-about {
+    font-size: 12px;
+  }
+  .text-copy {
+    font-size: 10px;
+  }
+  .text-contact {
+    font-size: 10px;
+    color: grey;
+  }
+  .content-atas {
+    margin-top: 40px;
+  }
+  .content-bawah {
+    margin-top: 40px;
+  }
+  .card-content {
+    margin-top: -150px;
+    margin-left: auto;
+    width: 100%;
+  }
+  .judul-about h1 {
+    font-size: 35px;
+  }
+  .judul-information {
+    font-size: 16px;
+    text-align: center;
+  }
+  .content3 a {
+    font-size: 12px;
+  }
+  .content-send {
+    width: 50%;
+    margin-left: -90px;
+  }
+  .contact-form {
+    border-bottom-right-radius: 50px;
+  }
+  .card-content {
+    height: max-content;
+    margin-bottom: 100px;
+  }
+  .judul-form {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/* Product End */
